@@ -47,7 +47,7 @@
 [twitter]: https://twitter.com/_abhikB
 [youtube]: https://www.youtube.com/channel/UC74BFCI_FbThOjUqx6gmccg
 [linkedin]: https://www.linkedin.com/in/abhik-bhattacharya-396993155/
-[frontend-mentor-solutions-playlist]: https://www.youtube.com/watch?v=lZE0Qydl4ko&list=PLCBa_75YlKx5zwBjClKLOe-VUYvCpY5Xg
-[jsprojectsplaylist]: https://www.youtube.com/watch?v=WK_SW5JO6rY&list=PLCBa_75YlKx7FxLVCYqXjrL9m5GCU-Cfp
-[djangoplaylist]: https://www.youtube.com/watch?v=e5SDQ30zqjk&list=PLCBa_75YlKx7UOvtJBAu1tuDTpThc6Zmf
-[reactuiplaylist]: https://www.youtube.com/watch?v=EgMjKqMo5r8&list=PLCBa_75YlKx7gTEyag1f2IikyrUmAtv48
+[frontend-mentor-playlist]: https://www.youtube.com/playlist?list=PLCBa_75YlKx5zwBjClKLOe-VUYvCpY5Xg
+[jsprojectsplaylist]: https://www.youtube.com/playlist?list=PLCBa_75YlKx7FxLVCYqXjrL9m5GCU-Cfp
+[djangoplaylist]: https://www.youtube.com/playlist?list=PLCBa_75YlKx7UOvtJBAu1tuDTpThc6Zmf
+[reactuiplaylist]: https://www.youtube.com/playlist?list=PLCBa_75YlKx7gTEyag1f2IikyrUmAtv48
