@@ -1,6 +1,6 @@
 # Abhik Bhattacharya
-### Data Engineer • Python • MySql • Apache Spark
-📍 Kolkata | IN (Open to Relocate)
+### Learning Data Engineering (Python • MySql • Apache Spark)
+📍 Kolkata | IN 
 
 📧 Mail me : **abhikb912@gmail.com**
 
