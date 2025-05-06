@@ -1,27 +1,38 @@
-# Abhik Bhattacharya
-### Learning Data Engineering (Python • MySql • Apache Spark)
-📍 Kolkata | IN 
+##  Learning Data
 
-📧 Mail me : **abhikb912@gmail.com**
-
-<p align="left" style="display:flex; gap:8px; align-items:center">
-<span>🤝 Connect with me : </span>
-<a href="https://linkedin.com/in/abhikb1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhikb1234" height="20" width="20" /></a>
-<a href="https://kaggle.com/abhikb43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhikb43" height="20" width="20" /></a>
+👨‍💻 Python • MySQL • Excel • Power BI • Apache Spark  
+📍 Kolkata, India • 📧 [abhikb912@gmail.com](mailto:abhikb912@gmail.com) • 
+<a href="https://linkedin.com/in/abhikb1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhikb1234" height="20" width="20" /></a> • 
+<a href="https://kaggle.com/abhikb43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhikb43" height="20" width="20" /></a> • 
 <a href="https://www.youtube.com/c/abhikb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhikb" height="20" width="20" /></a>
-</p>
 
-### About Me
-Now that I’m seeking a career as a data engineer, I’m finally channeling my passion for problem-solving and embracing new opportunities for growth. I’ve been coding since 2014, and I genuinely enjoy working on projects that challenge me and spark curiosity.
 
-These days I’m mastering modern data engineering tools and practices, including Python, SQL, Apache Spark, cloud platforms (like AWS and GCP), data pipelines, and distributed systems.
+---
 
-🔍 What I am all about :
-- Excited to build clean, scalable data infrastructure
-- Passionate about making complex systems easy to understand
-- Looking to collaborate on open-source projects and build real-world data solutions
+### 👋 About Me
 
-💬 Outside of tech, I love reading, taking long evening walks, spending time with my family, and drawing.
+Hi, I’m Abhik — a former academic turned aspiring **Data Engineer**. Since 2014, I’ve been exploring the world of code, but now I’m channeling that curiosity into data engineering and scalable infrastructure.
+
+I love solving real-world problems, and I’m currently focused on mastering tools and concepts like **Python, SQL, Apache Spark, cloud platforms (AWS/GCP), data pipelines, and distributed systems**.
+
+---
+
+### 🔍 What Drives Me
+
+- 🛠️ Building clean, scalable, and reliable data pipelines  
+- 🔎 Simplifying complex systems for better understanding  
+- 🤝 Collaborating on open-source and data-focused projects  
+
+---
+
+### 🧘 Outside of Tech
+
+When I’m not coding or learning something new, I enjoy:
+- 🧠 Quiet time to reflect and explore ideas
+- 🚶 Long morning and evening walks
+- 👨‍👩‍👦 Meaningful time with my family
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display:flex; gap:4px;">
@@ -46,6 +57,6 @@ These days I’m mastering modern data engineering tools and practices, includin
 <img src="https://raw.githubusercontent.com/rdecarlo73/icons/refs/heads/master/sql.ico" alt="mysql" width="40" height="40"/>
 </p>
 
-
+---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhik-b&show_icons=true&locale=en" alt="abhik-b" /></p>
